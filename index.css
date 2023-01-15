@@ -242,6 +242,7 @@ section.service-section .service-section-container .clean-img {
   height: 250px;
   transition: var(--primary-transition);
   object-fit: cover;
+  border-radius: 10px 10px 0px 0px;
 }
 
 section.service-section .service-section-container h2,
