@@ -440,6 +440,7 @@ footer#footer-main .footer-container .footer-legal-list .footer-legal-link {
 footer#footer-main .footer-container .footer-social-list .footer-social-link a,
 footer#footer-main .footer-container .footer-legal-list .footer-legal-link a {
   color: #000;
+  /*  */
 }
 footer#footer-main #inner-footer-main a:hover,
 footer#footer-main .footer-container .footer-social-list a:hover,
